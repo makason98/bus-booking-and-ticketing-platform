@@ -1,0 +1,12 @@
+{
+    "noto sans": {
+        "normal": "\/home\/tehnic\/local\/booking\/storage\/fonts\/noto_sans_normal_b3f5cddfd313100d76ebe4cb06deabfb",
+        "bold": "noto_sans_bold_595dc4c733528ac8b18fdc3b02b0bd1d"
+    },
+    "dejavu sans": {
+        "bold": "\/home\/tehnic\/local\/booking\/vendor\/dompdf\/dompdf\/lib\/fonts\/DejaVuSans-Bold",
+        "bold_italic": "\/home\/tehnic\/local\/booking\/vendor\/dompdf\/dompdf\/lib\/fonts\/DejaVuSans-BoldOblique",
+        "italic": "\/home\/tehnic\/local\/booking\/vendor\/dompdf\/dompdf\/lib\/fonts\/DejaVuSans-Oblique",
+        "normal": "dejavu_sans_normal_f4ea60f1df73367a572cb71fd6643e8b"
+    }
+}
